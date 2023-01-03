@@ -1,4 +1,4 @@
-## Trabajando Componentes
+## Trabajando Componentes.
 
 
 Guiones disponibles.
